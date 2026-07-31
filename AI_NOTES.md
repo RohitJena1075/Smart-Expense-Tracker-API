@@ -40,4 +40,4 @@ Made changes during development, especially around JSON storage and the test set
 
 ## 3. Any AI suggestion you decided not to use?
 
-Yes, Some suggestions included adding a database, authentication, logging, etc. I decided not to include those because the assignment specifically mentioned using a local JSON file and only required the core expense tracking features (plus one bonus feature). I wanted to keep the project focused on the assignment requirements instead of adding unnecessary complexity.
+Yes, Some suggestions included adding a database, authentication, logging, etc. I decided not to include those because the assignment specifically mentioned using a local JSON file and only required the core expense tracking features (plus one bonus feature **OpenAPI/Swagger documentation**). I wanted to keep the project focused on the assignment requirements instead of adding unnecessary complexity.
