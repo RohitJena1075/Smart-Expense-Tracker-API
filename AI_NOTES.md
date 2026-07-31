@@ -1,6 +1,5 @@
 # AI_NOTES
 
-
 I used ChatGPT while building this project, mainly to speed up development and to get help whenever I was unsure about an approach. I built the project step by step, reviewed every suggestion, and tested everything before keeping it.
 
 ## 1. Which parts were AI-generated and which were written by me?
