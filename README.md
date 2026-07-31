@@ -59,7 +59,8 @@ smart-expense-tracker/
 │   └── test_total.py
 │
 ├── requirements.txt
-├── README.md
+├── .gitignore
+└── README.md
 └── AI_NOTES.md
 ```
 
