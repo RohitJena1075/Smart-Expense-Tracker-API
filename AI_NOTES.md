@@ -1,4 +1,4 @@
-# AI_NOTES
+# AI_NOTES.md
 
 # AI Usage Notes
 
