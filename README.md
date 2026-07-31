@@ -188,6 +188,7 @@ data/expenses.json
 ```
 
 No database setup is required.
+Initially Empty.
 
 ---
 
