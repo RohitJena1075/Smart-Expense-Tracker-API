@@ -1,12 +1,13 @@
-# Python virtual environment
+# Virtual Environment
 .venv/
 
 # Python cache
 __pycache__/
 *.py[cod]
 
-# Test cache
+# Pytest
 .pytest_cache/
+.pytest_tmp/
 
 # Coverage reports
 .coverage
@@ -16,5 +17,6 @@ htmlcov/
 .vscode/
 .idea/
 
-# macOS
+# Operating System files
 .DS_Store
+Thumbs.db
